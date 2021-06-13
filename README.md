@@ -4,5 +4,11 @@ Share documentation, books, videos, manuals and procedures. Create a LINUX commu
 RASPBERRY PI 400
 
 Operation System:
-  1. UBUNTU
-  2. 
+  1. MANJARO
+  2. WINDOWS IoT
+  3. RISC
+  4. UBUNTU
+  5. RASPBERRY OS
+  6. OPEN USE
+  7. MANJARO MATE
+  8. RETROPIE
